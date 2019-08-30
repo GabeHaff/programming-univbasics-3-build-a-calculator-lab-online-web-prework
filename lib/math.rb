@@ -31,5 +31,5 @@ end
 
 def square_root(num)
 num=81 
-puts ath.sqrt num 
+puts Math.sqrt num 
 end
