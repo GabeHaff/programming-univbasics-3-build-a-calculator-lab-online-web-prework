@@ -19,7 +19,7 @@ end
 def multiplication(num1, num2)
 num1=2 
 num2= 6 
-multiplication puts num1*num2 
+puts num1*num2 
 
 end
 
